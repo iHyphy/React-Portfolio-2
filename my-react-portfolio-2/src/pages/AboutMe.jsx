@@ -1,11 +1,12 @@
 import React from 'react';
 import styles from '../styles/AboutMe.module.css';
+import DeveloperImage from '../assets/Developer.png'; // Adjust the path as necessary
 
 const AboutMe = () => {
   return (
     <div className={styles.container}>
       <h2 className={styles.title}>About Me</h2>
-      <img src="/path-to-your-image.jpg" alt="Manraj Uppal" className={styles.avatar} />
+      <img src={DeveloperImage} alt="Manraj Uppal" className={styles.avatar} />
       <p className={styles.bio}>
         Hi there! I'm Manraj Uppal, a web developer with a passion for building beautiful and functional web experiences. 
         I specialize in front-end development, React, and javascript. With a background in computer science, I bring a 

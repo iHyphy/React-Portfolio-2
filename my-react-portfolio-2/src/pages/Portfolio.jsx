@@ -1,16 +1,20 @@
 import React from 'react';
 import styles from '../styles/Portfolio.module.css';
+// Import images
+import TravelForecasterImage from '../assets/TravelForecaster.png';
+import TaskManagementImage from '../assets/TaskManagement.png';
+
 
 const projects = [
   {
     title: 'Project 1',
-    imageUrl: './assets/TravelForecaster.png',
+    imageUrl: TravelForecasterImage, // Use imported image here
     liveUrl: 'https://ihyphy.github.io/travelerseventforecaster/',
     repoUrl: 'https://github.com/iHyphy/travelerseventforecaster',
   },
   {
     title: 'Project 2',
-    imageUrl: '/path-to-image-2.jpg',
+    imageUrl: TaskManagementImage, // Replace with import if you have the image locally
     liveUrl: 'https://task-managementt-6e5cfd5db620.herokuapp.com/login',
     repoUrl: 'https://github.com/iHyphy/task-management',
   },
