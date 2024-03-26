@@ -14,7 +14,7 @@ My React Portfolio!
 ## Installation
 npm i
 npm express
-npm 
+npm vite
 
 ## Usage
 Create your own react portfolio using Vite and React.jsx
