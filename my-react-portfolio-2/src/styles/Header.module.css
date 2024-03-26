@@ -1,0 +1,35 @@
+.headerContainer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .title {
+    margin: 0;
+    font-size: 2rem;
+  }
+  
+  .nav {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .navItem {
+    margin: 0 15px;
+  }
+  
+  .navLink {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .navLink:hover,
+  .navLink.active {
+    color: #4b9cd3;
+  }
+  

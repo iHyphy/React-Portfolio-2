@@ -1,0 +1,44 @@
+.footerContainer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .links {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .linkItem {
+    padding: 8px;
+  }
+  
+  .link {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .link:hover {
+    color: #4b9cd3;
+  }
+  
+  .socialMediaIcons {
+    margin-top: 20px;
+  }
+  
+  /* Optionally, if you're using icons */
+  .icon {
+    width: 24px;
+    height: 24px;
+    fill: currentColor; /* Makes the SVG icon color inherit from the parent element */
+  }
+  
