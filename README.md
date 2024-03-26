@@ -26,6 +26,10 @@ anyway they want.
 ## Questions
 For any questions about this project, please reach out to Uppalmanraj@gmail.com.
 
+Live Deployment:
+https://myreactportfolio-d3641ca8d409.herokuapp.com/
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
