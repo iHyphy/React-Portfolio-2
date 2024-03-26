@@ -27,7 +27,7 @@ anyway they want.
 For any questions about this project, please reach out to Uppalmanraj@gmail.com.
 
 Live Deployment:
-https://myreactportfolio-d3641ca8d409.herokuapp.com/
+[https://myreactportfolio-d3641ca8d409.herokuapp.com/](https://zippy-nasturtium-ad7a51.netlify.app/)
 
 Screenshots:
 ![image](https://github.com/iHyphy/React-Portfolio-2/assets/145737984/51f30222-4f01-4052-8121-5fd8b020698d)
